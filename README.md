@@ -15,7 +15,7 @@ How many drones do I need in a fleet to accomplish a mission?
 A mission can be a fire rescue, a monitoring service, an agriculture scenario, etc 
 
 **My Datasources will be:**
-The Flight Data that is [here] (https://raw.githubusercontent.com/guadacasuso/DroneDataAnalytics/master/Data/flight_data.csv)  and also I will need to add some other measurements such as Batery and Sensors operation. 
+The Flight Data that is [here] (https://raw.githubusercontent.com/guadacasuso/DroneDataAnalytics/master/Data/flight_data.csv)  and also I will need to add some other measurements such as Battery and Sensors operation. 
 
 For weather I will use the Accuweather Public Datasource http://apidev.accuweather.com/developers/ 
 
