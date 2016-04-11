@@ -6,7 +6,7 @@ Some Drone Data Processing and Visualization Samples
 
 **Hypotesis:** 
 In any autonomous flight mission, the number of UAVs needed to accomplish a mission is very important in order to keep SLA of the Service. 
-Think about Fire Rescue, several considerations need to be taken to define the right number of units that can perform de Job. 
+As an example, think about Fire Rescue: several considerations need to be taken to define the right number of units that can perform de Job. 
 Environmental conditions such as Weather, Season, Territory coverage extension, Altitude, Closeness to the water 
 Drone Data: Batery Capacity, Sensors Information, etc  
 
