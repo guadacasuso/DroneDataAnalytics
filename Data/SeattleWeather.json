@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Seattle, WA",
+		"city":"Seattle",
+		"state":"WA",
+		"state_name":"Washington",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"98101",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"47.61167908",
+		"longitude":"-122.33325958",
+		"elevation":"63.00000000"
+		},
+		"observation_location": {
+		"full":"Belltown, Seattle, Washington",
+		"city":"Belltown, Seattle",
+		"state":"Washington",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"47.612675",
+		"longitude":"-122.347694",
+		"elevation":"135 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KWASEATT398",
+		"observation_time":"Last Updated on April 21, 2:12 PM PDT",
+		"observation_time_rfc822":"Thu, 21 Apr 2016 14:12:24 -0700",
+		"observation_epoch":"1461273144",
+		"local_time_rfc822":"Thu, 21 Apr 2016 14:12:34 -0700",
+		"local_epoch":"1461273154",
+		"local_tz_short":"PDT",
+		"local_tz_long":"America/Los_Angeles",
+		"local_tz_offset":"-0700",
+		"weather":"Mostly Cloudy",
+		"temperature_string":"71.4 F (21.9 C)",
+		"temp_f":71.4,
+		"temp_c":21.9,
+		"relative_humidity":"29%",
+		"wind_string":"Calm",
+		"wind_dir":"NNW",
+		"wind_degrees":339,
+		"wind_mph":0.4,
+		"wind_gust_mph":"2.5",
+		"wind_kph":0,
+		"wind_gust_kph":"4.0",
+		"pressure_mb":"1007",
+		"pressure_in":"29.74",
+		"pressure_trend":"-",
+		"dewpoint_string":"38 F (3 C)",
+		"dewpoint_f":38,
+		"dewpoint_c":3,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"71.4 F (21.9 C)",
+		"feelslike_f":"71.4",
+		"feelslike_c":"21.9",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"626",
+		"UV":"5.0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/WA/Seattle.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWASEATT398",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.612675,-122.347694",
+		"nowcast":""
+	}
+}
