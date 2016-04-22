@@ -1,6 +1,0 @@
-[{"LocalObservationDateTime":"2016-04-12T06:45:00-07:00",
-"EpochTime":1460468700,"WeatherText":"Cloudy","WeatherIcon":7,"IsDayTime":true,
-"Temperature":{"Metric":{"Value":10.0,"Unit":"C","UnitType":17},
-"Imperial":{"Value":50.0,"Unit":"F","UnitType":18}},
-"MobileLink":"http://m.accuweather.com/en/us/seattle-wa/98104/current-weather/351409",
-"Link":"http://www.accuweather.com/en/us/seattle-wa/98104/current-weather/351409"}]
