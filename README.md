@@ -19,6 +19,27 @@ The Flight Data that is [here] (https://raw.githubusercontent.com/guadacasuso/Dr
 
 For weather I will use the Accuweather Public Datasource https://www.wunderground.com/weather/api/  
 
+**Models** 
+I 
+
+**Challenges and successes** 
+
+
+**Business Impact**
+The mail goal of this project is to be able to achieve efficiency in the use of drones 
+In terms of potentiality I see the possibility of: 
+- Analizing sensors performance and improve batteries development/usage (For Manufacturers) 
+- Track Drones components life and improve (For Manufacturers) 
+- ReStock of drones
+
+
+**Conclusions and Key Learnings** 
+
+
+
+
+
+
 
 
 
