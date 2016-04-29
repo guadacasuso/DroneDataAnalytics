@@ -20,7 +20,8 @@ The Flight Data that is [here] (https://raw.githubusercontent.com/guadacasuso/Dr
 For weather I will use the Accuweather Public Datasource https://www.wunderground.com/weather/api/  
 
 **Models** 
-I 
+Clustering
+DBScan  
 
 **Challenges and successes** 
 
@@ -37,7 +38,16 @@ In terms of potentiality I see the possibility of:
 
 
 
-
+Topics to cover: 
+Problem statement and hypothesis
+Description of your data set and how it was obtained
+Description of any pre-processing steps you took
+What you learned from exploring the data, including visualizations
+How you chose which features to use in your analysis
+Details of your modeling process, including how you selected your models and validated them
+Your challenges and successes
+Possible extensions or business applications of your project
+Conclusions and key learnings
 
 
 
